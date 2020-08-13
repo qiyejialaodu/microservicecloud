@@ -1,0 +1,3 @@
+com\atguigu\springcloud\controller\DeptController.class
+com\atguigu\springcloud\DeptConsumerFeign_App.class
+com\atguigu\springcloud\cfgbeans\ConfigBean.class
